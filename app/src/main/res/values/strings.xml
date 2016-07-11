@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExchangeR</string>
+    <string name="title_activity_result">Results</string>
+    <string name="result_label">100 USD in KES:</string>
+    <string name="view_label">A LOT OF MONEY!!!</string>
+    <string name="label_enter_value">Enter value to Convert (USD):</string>
+    <string name="label_select_currency">Select currency:</string>
+    <string name="label_convert">Convert</string>
+</resources>
